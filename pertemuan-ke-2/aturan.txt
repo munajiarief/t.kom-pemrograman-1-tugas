@@ -1,4 +1,4 @@
-- Dikumpulkan dalam file microsoft word (.doc, .docx)
+- Dikumpulkan dalam file microsoft word (.doc atau .docx)
 - File word diberi nama "P02-Nama Lengkap-NIM"
 - Sebelum menjawab, soal wajib ditulis ulang (bisa mengurangi nilai)
 - Harap perhatikan kapan waktu pengumpulan dan kapan deadline waktu pengumpulan.
